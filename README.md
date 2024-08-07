@@ -1,6 +1,8 @@
 <h1 align="center">Olá, sou o Raphael Jesus</h1>
 <h3 align="center">Apaixonado por tecnologia</h3>
 
+- 📫 Contato: **raphael.lourenco.jesus@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
